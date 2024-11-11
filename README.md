@@ -9,9 +9,7 @@ Returns the position of the key if found, or a message if the key is not present
 # Explanation
 lin_search function: Searches through each element in the array a[]. If it finds the key, it returns the index of that element. If the key is not found, it returns -1.
 Main function: Takes user input for the array size, elements, and search key, then calls the lin_search function to determine if the key is in the array.
-**Example Output**
-mathematica
-Copy code
+# Example Output
 Enter the number of elements: 5
 Enter the elements: 10 20 30 40 50
 Enter the key value to search: 30
